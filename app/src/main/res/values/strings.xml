@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">State Placeholder List Activity</string>
+    <string name="loading">Loading</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="retry">Ulang</string>
 </resources>
